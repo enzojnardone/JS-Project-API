@@ -3,9 +3,16 @@ form {
     margin: 20px auto;
 }
 
-input {
+.searching {
     width: 100%;
     padding: 10px;
+    border-radius: 8px 0 0 8px;
+    border: 0;
+    outline: none;
+    height: 36px;
+    padding: 4px 16px;
+    background-color: white;
+    color: #000;
 }
 
 body {
